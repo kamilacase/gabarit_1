@@ -1,0 +1,94 @@
+header
+{
+    background-color: grey;
+}
+nav
+{
+    width: 60%;
+    margin: auto;
+    border: solid;
+    border-color: grey;
+    background-color: grey;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 3em;
+    padding-bottom: 1em;
+}
+
+.presentation
+{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+a
+{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: 3em;
+}
+
+h1
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.logo_autruche
+{
+    width: 100px;
+    height: 80px;
+}
+
+.machupichu
+{
+    width: 900px;
+    height: 350px;
+    float: left;
+}
+
+.coordonnees
+{
+    margin-top: 5em;
+    text-align: center;
+    margin-bottom: 3em;
+    background-color: grey;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 2em;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
+#choix
+{
+    width: 33%;
+    margin:auto;
+}
+
+.autruche
+{
+    float: left;
+}
+
+main
+{
+    width: 60%;
+    margin: auto;
+}
+
+p
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    margin-top: 8em;
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    margin:auto;
+}
